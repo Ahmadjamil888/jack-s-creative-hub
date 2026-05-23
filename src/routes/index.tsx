@@ -13,7 +13,7 @@ export const Route = createFileRoute("/")({
       { name: "description", content: "Portfolio of Umair Amin — CMO of Zehan X Technologies, Web Developer, and Machine Learning enthusiast. Explore cutting-edge web projects, AI products, and digital experiences." },
       { property: "og:title", content: "Umair Amin — Web Developer & CMO | Portfolio" },
       { property: "og:description", content: "Portfolio of Umair Amin — CMO of Zehan X Technologies, Web Developer, and Machine Learning enthusiast. Explore cutting-edge web projects, AI products, and digital experiences." },
-      { property: "og:url", content: "/" },
+      { property: "og:url", content: "https://umairamin-henna.vercel.app/" },
       { property: "og:image", content: "/og-image.jpg" },
       { property: "og:image:width", content: "1200" },
       { property: "og:image:height", content: "630" },
@@ -23,7 +23,7 @@ export const Route = createFileRoute("/")({
       { name: "twitter:image", content: "/og-image.jpg" },
     ],
     links: [
-      { rel: "canonical", href: "/" },
+      { rel: "canonical", href: "https://umairamin-henna.vercel.app/" },
     ],
   }),
 });
