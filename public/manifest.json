@@ -1,0 +1,17 @@
+{
+  "name": "Umair Amin — Portfolio",
+  "short_name": "Umair Amin",
+  "description": "Portfolio of Umair Amin — CMO of Zehan X Technologies, Web Developer, Machine Learner.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0C0C",
+  "theme_color": "#0C0C0C",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
