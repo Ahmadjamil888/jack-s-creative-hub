@@ -3,5 +3,11 @@
   "buildCommand": "vite build",
   "outputDirectory": "dist/client",
   "framework": null,
-  "installCommand": "bun install"
+  "installCommand": "bun install",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }
