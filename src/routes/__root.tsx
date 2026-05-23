@@ -72,8 +72,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Umair — Web Developer & CMO" },
+      { name: "description", content: "Portfolio of Umair Amin — CMO of Zehan X Technologies, Web Developer, Machine Learner." },
       { name: "author", content: "Umair Amin" },
       { property: "og:title", content: "Umair — Web Developer & CMO" },
       { property: "og:description", content: "Portfolio of Umair Amin — CMO of Zehan X Technologies, Web Developer, Machine Learner." },
